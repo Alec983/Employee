@@ -1,0 +1,11 @@
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\bin\Debug\Antra.Training.Service.dll
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\bin\Debug\Antra.Training.Service.pdb
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\bin\Debug\Antra.Training.Data.Model.dll
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\bin\Debug\Antra.Training.Data.Repository.dll
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\bin\Debug\Antra.Training.Data.Model.pdb
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\bin\Debug\Antra.Training.Data.Repository.pdb
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\obj\Debug\Antra.Training.Service.csprojAssemblyReference.cache
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\obj\Debug\Antra.Training.Service.csproj.CoreCompileInputs.cache
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\obj\Debug\Antra.Training.Service.csproj.CopyComplete
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\obj\Debug\Antra.Training.Service.dll
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Service\obj\Debug\Antra.Training.Service.pdb

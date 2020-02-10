@@ -1,0 +1,6 @@
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Data.Model\bin\Debug\Antra.Training.Data.Model.dll
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Data.Model\bin\Debug\Antra.Training.Data.Model.pdb
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Data.Model\obj\Debug\Antra.Training.Data.Model.csprojAssemblyReference.cache
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Data.Model\obj\Debug\Antra.Training.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Data.Model\obj\Debug\Antra.Training.Data.Model.dll
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp8\Antra.Training.Data.Model\obj\Debug\Antra.Training.Data.Model.pdb
